@@ -1,0 +1,9 @@
+{
+  "sandboxId": "mass-lando-calrissian-056e4f18",
+  "chainId": 12911,
+  "rpcUrl": "https://rpc.buildbear.io/mass-lando-calrissian-056e4f18",
+  "faucetUrl": "https://faucet.buildbear.io/mass-lando-calrissian-056e4f18",
+  "explorerUrl": "https://explorer.buildbear.io/mass-lando-calrissian-056e4f18",
+  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/mass-lando-calrissian-056e4f18",
+  "forkingChainId": 1
+}
