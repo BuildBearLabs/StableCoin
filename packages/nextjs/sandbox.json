@@ -1,9 +1,9 @@
 {
-  "sandboxId": "mass-lando-calrissian-056e4f18",
-  "chainId": 12911,
-  "rpcUrl": "https://rpc.buildbear.io/mass-lando-calrissian-056e4f18",
-  "faucetUrl": "https://faucet.buildbear.io/mass-lando-calrissian-056e4f18",
-  "explorerUrl": "https://explorer.buildbear.io/mass-lando-calrissian-056e4f18",
-  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/mass-lando-calrissian-056e4f18",
+  "sandboxId": "joyous-gorgon-c47fe457",
+  "chainId": 14115,
+  "rpcUrl": "https://rpc.buildbear.io/joyous-gorgon-c47fe457",
+  "faucetUrl": "https://faucet.buildbear.io/joyous-gorgon-c47fe457",
+  "explorerUrl": "https://explorer.buildbear.io/joyous-gorgon-c47fe457",
+  "verificationUrl": "https://api.buildbear.io/v1/api/verify/etherscan/joyous-gorgon-c47fe457",
   "forkingChainId": 1
 }
